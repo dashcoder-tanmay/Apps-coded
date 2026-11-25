@@ -63,7 +63,7 @@ The current production sign-in verifies email ownership only. Before claiming ve
 
 GitHub Pages serves the frontend only. Supabase supplies authentication, database and server-side authorization.
 
-## Repository layout
+## Round 3 submission\n\nSee [ROUND3_SUBMISSION.md](ROUND3_SUBMISSION.md) for the judging pitch, feature walkthrough, 3-minute demo sequence, honest scope boundaries, and final readiness checklist.\n\n## Repository layout
 
 ```text
 .
